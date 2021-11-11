@@ -1,0 +1,119 @@
+.main-block-container {
+  background-color: #c28c16;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+}
+.main-div-bg-color {
+  background-color: black;
+  height: 632px;
+}
+.welcome-main-div {
+  display: flex;
+  justify-content: center;
+}
+.wlc {
+  justify-content: center;
+  font-size: 50px;
+  padding-top: 160px;
+  color: whitesmoke;
+  box-shadow: 0px 3px #c28c16;
+}
+.Btn-main-div {
+  display: flex;
+  justify-content: center;
+}
+.btn-1 {
+  background-color: #c28c16;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  font-size: 20px;
+}
+.btn-1:hover {
+  background-color: #678178;
+  transition: all 0.1s;
+}
+.header-newpage {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1250px;
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+}
+.picture-newpage-container {
+  width: 80px;
+  height: 50px;
+}
+.history-button-container{
+  background-color: black;
+  color: white;
+  padding: 5px 5px;
+  border: 2px soild black;
+  width: 120px;
+  margin-right: 25px;
+  
+}
+.input-field-newpage {
+  display: flex;
+  width: 250px;
+  height: 30px;
+  background-color: white; 
+  font-size: 15px;
+  border-radius: 4px;
+}
+.dropdown-newpage-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  width: 300;
+  height: 100;
+  color: rgb(238, 238, 238);
+  background-color: #c28c16;
+  padding-top: 5px;
+}
+.dropdown-container-size {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 6px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border: 2px solid black;
+
+}
+.breed-list-body-container {
+  width: 500px;
+}
+.modal-image-contanier {
+  width: 450px;
+  margin-left: 10px;
+}
+.Fav-image-contanier{
+  background-color: #c28c16;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+}
+.Remove-btn-container{
+  display: flex;
+  background-color: black;
+  color: white;
+  padding: 5px 5px;
+  border: 2px soild black;
+  /* width: 120px; */
+  margin-top: 20px;
+  margin-left: 550px;
+}
+.highlight{
+  border: 2px solid red;
+  
+}
